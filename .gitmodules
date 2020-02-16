@@ -31,3 +31,12 @@
 [submodule "modules/prompt/external/powerlevel10k"]
 	path = modules/prompt/external/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "contrib/zsh-z/external"]
+	path = contrib/zsh-z/external
+	url = https://github.com/agkozak/zsh-z.git
+[submodule "contrib/fast-syntax-highlighting/external"]
+	path = contrib/fast-syntax-highlighting/external
+	url = https://github.com/zdharma/fast-syntax-highlighting.git
+[submodule "contrib/history-search-multi-word/external"]
+	path = contrib/history-search-multi-word/external
+	url = https://github.com/zdharma/history-search-multi-word.git
